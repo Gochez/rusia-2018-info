@@ -1,501 +1,601 @@
 [{
-    "first_name": "Vanessa",
-    "last_name": "Rodríguez Hernández",
-    "points": 1
+    "first_name": "Gustavo",
+    "last_name": "Vásquez",
+    "user_id": 6596,
+    "total": 3
 },
 {
-    "first_name": "Ernesto Eduardo",
-    "last_name": "Canales Cerón",
-    "points": 1
+    "first_name": "Guillermo Alejandro",
+    "last_name": "Nasser Escobar",
+    "user_id": 7838,
+    "total": 3
 },
 {
-    "first_name": "William Ernesto ",
-    "last_name": "Benitez Argueta",
-    "points": 1
+    "first_name": "Bryan",
+    "last_name": "Olmedo",
+    "user_id": 7335,
+    "total": 3
 },
 {
-    "first_name": "Yk",
-    "last_name": "García",
-    "points": 1
-},
-{
-    "first_name": "Nestor Mauricio",
-    "last_name": "Ramirez Moran",
-    "points": 1
-},
-{
-    "first_name": "Claudia ",
-    "last_name": "Artiga ",
-    "points": 1
-},
-{
-    "first_name": "Danilo",
-    "last_name": "Moreno",
-    "points": 1
-},
-{
-    "first_name": "Fernando",
-    "last_name": "Martinez",
-    "points": 1
-},
-{
-    "first_name": "Nicolás Antonio",
-    "last_name": "López Hernández",
-    "points": 1
-},
-{
-    "first_name": "Manuel",
-    "last_name": "Barrera Guzman ",
-    "points": 1
-},
-{
-    "first_name": "Juan Rafael",
-    "last_name": "Merino Menéndez",
-    "points": 1
+    "first_name": "Stefhanie",
+    "last_name": "Figueroa",
+    "user_id": 627,
+    "total": 3
 },
 {
     "first_name": "Meybel",
     "last_name": "Rojas",
-    "points": 1
+    "user_id": 7308,
+    "total": 3
 },
 {
-    "first_name": "Luis Alonso ",
-    "last_name": "Gámez",
-    "points": 1
+    "first_name": "Manuel",
+    "last_name": "Martínez",
+    "user_id": 7819,
+    "total": 3
 },
 {
-    "first_name": "Raúl",
-    "last_name": "Moreno",
-    "points": 1
+    "first_name": "Romeo ",
+    "last_name": "Chiquillo",
+    "user_id": 7995,
+    "total": 3
 },
 {
-    "first_name": "junior",
-    "last_name": "najarro",
-    "points": 1
+    "first_name": "Kimberly ",
+    "last_name": "Katota",
+    "user_id": 6405,
+    "total": 3
 },
 {
-    "first_name": "Alexander ",
-    "last_name": "Henriquez",
-    "points": 1
+    "first_name": "Gabriel ",
+    "last_name": "Ardon",
+    "user_id": 7814,
+    "total": 3
 },
 {
-    "first_name": "Milton Eduardo",
-    "last_name": "Vides Lemus",
-    "points": 1
+    "first_name": "Yamileth",
+    "last_name": "Palma",
+    "user_id": 7777,
+    "total": 3
 },
 {
-    "first_name": "German ",
-    "last_name": "Funes",
-    "points": 1
+    "first_name": "Julio Salvador ",
+    "last_name": "Cartagena Rosales",
+    "user_id": 8114,
+    "total": 3
 },
 {
-    "first_name": "Javier",
-    "last_name": "Villegas",
-    "points": 1
-},
-{
-    "first_name": "Lopez",
-    "last_name": "Perez",
-    "points": 1
-},
-{
-    "first_name": "Daniel",
-    "last_name": "López",
-    "points": 1
-},
-{
-    "first_name": "Heber",
-    "last_name": "Contreras ",
-    "points": 1
-},
-{
-    "first_name": "César",
-    "last_name": "Tolentino",
-    "points": 1
-},
-{
-    "first_name": "Fatima",
-    "last_name": "Vasquez",
-    "points": 1
-},
-{
-    "first_name": "Oswaldo",
-    "last_name": "Castillo",
-    "points": 1
-},
-{
-    "first_name": "Raul",
-    "last_name": "Rodriguez",
-    "points": 1
-},
-{
-    "first_name": "Ricardo",
-    "last_name": "Merino",
-    "points": 1
-},
-{
-    "first_name": "danilo ernesto",
-    "last_name": "perez",
-    "points": 1
-},
-{
-    "first_name": "oscar",
-    "last_name": "morales",
-    "points": 1
-},
-{
-    "first_name": "Nelson ",
-    "last_name": "Hernández ",
-    "points": 1
-},
-{
-    "first_name": "Rafael",
-    "last_name": "Villalta",
-    "points": 1
-},
-{
-    "first_name": "Francisco",
-    "last_name": "Rodríguez",
-    "points": 1
-},
-{
-    "first_name": "Juan",
-    "last_name": "Rodezno ",
-    "points": 1
-},
-{
-    "first_name": "Ronald alexander",
-    "last_name": "Andrade hernandez",
-    "points": 1
-},
-{
-    "first_name": "Eduardo",
-    "last_name": "Parker",
-    "points": 1
-},
-{
-    "first_name": "Javier",
-    "last_name": "Portillo",
-    "points": 1
-},
-{
-    "first_name": "Alejandro",
-    "last_name": "Grande",
-    "points": 1
-},
-{
-    "first_name": "Rocío",
-    "last_name": "De Rodríguez",
-    "points": 1
-},
-{
-    "first_name": "Angela Patricia",
-    "last_name": "De Alvarenga",
-    "points": 1
-},
-{
-    "first_name": "Mario",
-    "last_name": "Aguila",
-    "points": 1
-},
-{
-    "first_name": "Fernando",
-    "last_name": "Alvarenga",
-    "points": 1
-},
-{
-    "first_name": "Isael ",
-    "last_name": "Rosales",
-    "points": 1
-},
-{
-    "first_name": "Fernando",
-    "last_name": "Lopez",
-    "points": 1
-},
-{
-    "first_name": "Douglas Misael",
-    "last_name": "Melendez Mejia",
-    "points": 1
-},
-{
-    "first_name": "Alejandra",
-    "last_name": "Molina",
-    "points": 1
-},
-{
-    "first_name": "Francisco",
-    "last_name": "Cruz",
-    "points": 1
-},
-{
-    "first_name": "Gabriel",
-    "last_name": "Amaya",
-    "points": 1
-},
-{
-    "first_name": "Roxana",
-    "last_name": "Alas",
-    "points": 1
-},
-{
-    "first_name": "Henrry",
-    "last_name": "Artiga",
-    "points": 1
-},
-{
-    "first_name": "David Alejandro",
-    "last_name": "Mejia Pereira",
-    "points": 1
-},
-{
-    "first_name": "William",
-    "last_name": "Ware",
-    "points": 1
-},
-{
-    "first_name": "Lydice",
-    "last_name": "Chavez ",
-    "points": 1
-},
-{
-    "first_name": "Victor Alcides",
-    "last_name": "Ayala Andrade ",
-    "points": 1
-},
-{
-    "first_name": "Jose Francisco ",
-    "last_name": "Chavez chavez",
-    "points": 1
-},
-{
-    "first_name": "Edwin",
-    "last_name": "Chavez",
-    "points": 1
-},
-{
-    "first_name": "EDGARDO",
-    "last_name": "GONZALEZ",
-    "points": 1
-},
-{
-    "first_name": "Fatima",
-    "last_name": "Lopez",
-    "points": 1
-},
-{
-    "first_name": "German ",
-    "last_name": "Romero",
-    "points": 1
-},
-{
-    "first_name": "Oscar Alberto",
-    "last_name": "Trejo Nerio",
-    "points": 1
-},
-{
-    "first_name": "Wilber",
-    "last_name": "Torres",
-    "points": 1
-},
-{
-    "first_name": "Advenia",
-    "last_name": "Sáenz ",
-    "points": 1
-},
-{
-    "first_name": "Marvin Danilo",
-    "last_name": "Escobar Grande",
-    "points": 1
-},
-{
-    "first_name": "Jose Norberto",
-    "last_name": "Gonzalez Alfaro",
-    "points": 1
-},
-{
-    "first_name": "Enemias",
-    "last_name": "Montecino",
-    "points": 1
-},
-{
-    "first_name": "Alexander Enrique",
-    "last_name": "Perez",
-    "points": 1
-},
-{
-    "first_name": "Héctor",
-    "last_name": "Gómez",
-    "points": 1
+    "first_name": "Andre",
+    "last_name": "Morales",
+    "user_id": 8055,
+    "total": 3
 },
 {
     "first_name": "Jose",
-    "last_name": "Carrillo",
-    "points": 1
+    "last_name": "Zelaya",
+    "user_id": 4172,
+    "total": 3
+},
+{
+    "first_name": "Julio",
+    "last_name": "Azcunaga",
+    "user_id": 8021,
+    "total": 3
+},
+{
+    "first_name": "Carlos",
+    "last_name": "Ramirez",
+    "user_id": 7968,
+    "total": 3
+},
+{
+    "first_name": "Carlos",
+    "last_name": "Guillen",
+    "user_id": 8100,
+    "total": 3
+},
+{
+    "first_name": "Erik ",
+    "last_name": "Vasquez",
+    "user_id": 7883,
+    "total": 3
 },
 {
     "first_name": "Carlos",
     "last_name": "Escobar",
-    "points": 1
+    "user_id": 7965,
+    "total": 3
 },
 {
-    "first_name": "Maria Nery",
-    "last_name": "Bonilla de Marquez",
-    "points": 1
+    "first_name": "Eduardo",
+    "last_name": "Quintanilla",
+    "user_id": 61,
+    "total": 3
 },
 {
-    "first_name": "Linda",
-    "last_name": "Pineda",
-    "points": 1
-},
-{
-    "first_name": "Marvin",
-    "last_name": "Flores",
-    "points": 1
-},
-{
-    "first_name": "Luis",
-    "last_name": "Rodriguez",
-    "points": 1
-},
-{
-    "first_name": "Reyes ",
-    "last_name": "Contreras",
-    "points": 1
-},
-{
-    "first_name": "William Ernesto",
-    "last_name": "Lemus",
-    "points": 1
-},
-{
-    "first_name": "Jose",
+    "first_name": "Rodrigo",
     "last_name": "Rivera",
-    "points": 1
+    "user_id": 976,
+    "total": 3
 },
 {
-    "first_name": "Guillermo",
-    "last_name": "Estrada",
-    "points": 1
+    "first_name": "Alexander Antonio",
+    "last_name": "Orellana Orellana",
+    "user_id": 543,
+    "total": 3
 },
 {
-    "first_name": "Mario",
-    "last_name": "Ramirez",
-    "points": 1
+    "first_name": "Kevin Alfredo ",
+    "last_name": "Valle Cornejo ",
+    "user_id": 7949,
+    "total": 3
 },
 {
-    "first_name": "Alberto",
-    "last_name": "villalobos",
-    "points": 1
+    "first_name": "Víctor",
+    "last_name": "Montalvo",
+    "user_id": 8076,
+    "total": 3
 },
 {
-    "first_name": "Julio Cesar",
-    "last_name": "Guevara Avelar",
-    "points": 1
+    "first_name": "Elsa Cecilia",
+    "last_name": "Aquino Romero",
+    "user_id": 3305,
+    "total": 3
 },
 {
-    "first_name": "Manuel",
-    "last_name": "Solá",
-    "points": 1
-},
-{
-    "first_name": "Juan",
-    "last_name": "Maye",
-    "points": 1
-},
-{
-    "first_name": "Alexis",
-    "last_name": "Linares",
-    "points": 1
-},
-{
-    "first_name": "Gerardo ",
-    "last_name": "Calderon",
-    "points": 1
-},
-{
-    "first_name": "Jocelyn Abigail",
-    "last_name": "Diaz Ramos",
-    "points": 1
-},
-{
-    "first_name": "Oswaldo",
-    "last_name": "Ramirez",
-    "points": 1
-},
-{
-    "first_name": "Oscar",
-    "last_name": "Cruz",
-    "points": 1
-},
-{
-    "first_name": "Henry",
-    "last_name": "Lopez",
-    "points": 1
-},
-{
-    "first_name": "Ronald",
-    "last_name": "Perez",
-    "points": 1
-},
-{
-    "first_name": "Jose pablo",
-    "last_name": "Penado anaya",
-    "points": 1
-},
-{
-    "first_name": "Erick ",
-    "last_name": "Flores",
-    "points": 1
-},
-{
-    "first_name": "Carlos",
-    "last_name": "Navarro ",
-    "points": 1
-},
-{
-    "first_name": "Xavier",
-    "last_name": "Granados",
-    "points": 1
-},
-{
-    "first_name": "Jessica ",
-    "last_name": "Linares ",
-    "points": 1
-},
-{
-    "first_name": "Mario",
-    "last_name": "Peraza",
-    "points": 1
-},
-{
-    "first_name": "Pedro",
-    "last_name": "Menjivar Delgado",
-    "points": 1
+    "first_name": "Cesar",
+    "last_name": "Rauda",
+    "user_id": 6412,
+    "total": 3
 },
 {
     "first_name": "Anderson",
     "last_name": "Hernández",
-    "points": 1
+    "user_id": 2773,
+    "total": 3
 },
 {
-    "first_name": "Víctor",
-    "last_name": "García",
-    "points": 1
+    "first_name": "Luis",
+    "last_name": "Henriquez",
+    "user_id": 299,
+    "total": 3
 },
 {
-    "first_name": "Jhony",
-    "last_name": "Gamez",
-    "points": 1
+    "first_name": "Jose Luis",
+    "last_name": "Carias Melendez",
+    "user_id": 249,
+    "total": 3
 },
 {
-    "first_name": "Mauricio ",
-    "last_name": "Sorto",
-    "points": 1
+    "first_name": "André ",
+    "last_name": "Doratt",
+    "user_id": 7811,
+    "total": 3
 },
 {
-    "first_name": "Christian Alexander",
-    "last_name": "Ruiz Nolasco",
-    "points": 1
+    "first_name": "Roberto Mauricio",
+    "last_name": "Quintanilla Patiño",
+    "user_id": 7808,
+    "total": 3
+},
+{
+    "first_name": "Edwin",
+    "last_name": "Amaya",
+    "user_id": 8111,
+    "total": 3
+},
+{
+    "first_name": "junior",
+    "last_name": "najarro",
+    "user_id": 6732,
+    "total": 3
+},
+{
+    "first_name": "Efrain",
+    "last_name": "Orantes",
+    "user_id": 7760,
+    "total": 3
+},
+{
+    "first_name": "Jaime",
+    "last_name": "Rivera",
+    "user_id": 510,
+    "total": 3
+},
+{
+    "first_name": "Enrique Antonio",
+    "last_name": "Palencia García",
+    "user_id": 8032,
+    "total": 3
+},
+{
+    "first_name": "Oscar Samuel",
+    "last_name": "Portillo Ortiz",
+    "user_id": 3337,
+    "total": 3
+},
+{
+    "first_name": "Lennin Alexei",
+    "last_name": "Hernandez Ayala",
+    "user_id": 384,
+    "total": 3
+},
+{
+    "first_name": "Francisco",
+    "last_name": "Rodríguez",
+    "user_id": 7894,
+    "total": 3
+},
+{
+    "first_name": "Alex",
+    "last_name": "Turcios",
+    "user_id": 7206,
+    "total": 3
+},
+{
+    "first_name": "Ricardo",
+    "last_name": "Merino",
+    "user_id": 7379,
+    "total": 3
+},
+{
+    "first_name": "Jose",
+    "last_name": "Escobar",
+    "user_id": 351,
+    "total": 3
+},
+{
+    "first_name": "David Moises",
+    "last_name": "Guzman",
+    "user_id": 6109,
+    "total": 3
+},
+{
+    "first_name": "Ricardo",
+    "last_name": "Santamaria",
+    "user_id": 7809,
+    "total": 3
+},
+{
+    "first_name": "Oscar",
+    "last_name": "Cruz",
+    "user_id": 7933,
+    "total": 3
+},
+{
+    "first_name": "Manuel",
+    "last_name": "Solá",
+    "user_id": 7909,
+    "total": 3
+},
+{
+    "first_name": "Nelson ",
+    "last_name": "Pérez",
+    "user_id": 6723,
+    "total": 3
+},
+{
+    "first_name": "Rocio ",
+    "last_name": "Barrera",
+    "user_id": 117,
+    "total": 3
+},
+{
+    "first_name": "Adonahill Elias",
+    "last_name": "Evora",
+    "user_id": 2043,
+    "total": 3
+},
+{
+    "first_name": "Jose Daniel",
+    "last_name": "Amaya",
+    "user_id": 13,
+    "total": 3
+},
+{
+    "first_name": "Carlos",
+    "last_name": "Melendez",
+    "user_id": 1063,
+    "total": 3
+},
+{
+    "first_name": "Karen",
+    "last_name": "Bonilla",
+    "user_id": 7516,
+    "total": 3
+},
+{
+    "first_name": "Ernesto Eduardo",
+    "last_name": "Canales Cerón",
+    "user_id": 7915,
+    "total": 3
+},
+{
+    "first_name": "Marcelo",
+    "last_name": "Paz Coreas",
+    "user_id": 7958,
+    "total": 3
+},
+{
+    "first_name": "Juan Manuel",
+    "last_name": "Serrano Acosta",
+    "user_id": 1454,
+    "total": 3
+},
+{
+    "first_name": "Héctor",
+    "last_name": "Gómez",
+    "user_id": 7959,
+    "total": 3
+},
+{
+    "first_name": "Luis",
+    "last_name": "Tévez",
+    "user_id": 804,
+    "total": 3
+},
+{
+    "first_name": "Luis",
+    "last_name": "Rosales",
+    "user_id": 6098,
+    "total": 3
+},
+{
+    "first_name": "Jose Roberto",
+    "last_name": "Mata Santana",
+    "user_id": 7795,
+    "total": 3
+},
+{
+    "first_name": "Salvador Nery",
+    "last_name": "Chicas Linares",
+    "user_id": 1068,
+    "total": 3
+},
+{
+    "first_name": "Ezequiel",
+    "last_name": "Portillo",
+    "user_id": 7342,
+    "total": 3
+},
+{
+    "first_name": "Rodrigo",
+    "last_name": "Bonilla",
+    "user_id": 754,
+    "total": 3
+},
+{
+    "first_name": "Ernesto",
+    "last_name": "Molina",
+    "user_id": 7839,
+    "total": 3
+},
+{
+    "first_name": "César",
+    "last_name": "Tolentino",
+    "user_id": 7925,
+    "total": 3
+},
+{
+    "first_name": "Miriam Del Carmen",
+    "last_name": "Satamaria De Martinez",
+    "user_id": 491,
+    "total": 3
+},
+{
+    "first_name": "Ana Dolores",
+    "last_name": "Cruz Padilla De Hernández",
+    "user_id": 8108,
+    "total": 3
+},
+{
+    "first_name": "Marvin",
+    "last_name": "López",
+    "user_id": 7559,
+    "total": 3
+},
+{
+    "first_name": "Julio",
+    "last_name": "Jimenez",
+    "user_id": 7801,
+    "total": 3
+},
+{
+    "first_name": "Walter",
+    "last_name": "Olivares",
+    "user_id": 436,
+    "total": 3
+},
+{
+    "first_name": "Pedro",
+    "last_name": "Menjivar Delgado",
+    "user_id": 1329,
+    "total": 3
+},
+{
+    "first_name": "Ricardo",
+    "last_name": "Mena",
+    "user_id": 7784,
+    "total": 3
+},
+{
+    "first_name": "Diego",
+    "last_name": "Ciudad Real",
+    "user_id": 6571,
+    "total": 3
+},
+{
+    "first_name": "Jose",
+    "last_name": "Rodriguez",
+    "user_id": 1687,
+    "total": 3
+},
+{
+    "first_name": "rene",
+    "last_name": "ortega",
+    "user_id": 7581,
+    "total": 3
+},
+{
+    "first_name": "William",
+    "last_name": "Monzón",
+    "user_id": 7019,
+    "total": 3
+},
+{
+    "first_name": "AlexanderJosue",
+    "last_name": "ValleRodriguez",
+    "user_id": 6624,
+    "total": 3
+},
+{
+    "first_name": "Hamlet Ovat",
+    "last_name": "Durán Castro",
+    "user_id": 6585,
+    "total": 3
+},
+{
+    "first_name": "Roxana",
+    "last_name": "Alas",
+    "user_id": 7907,
+    "total": 3
+},
+{
+    "first_name": "Cesar",
+    "last_name": "Cruz",
+    "user_id": 1499,
+    "total": 3
+},
+{
+    "first_name": "Marvin",
+    "last_name": "Chicas",
+    "user_id": 1206,
+    "total": 3
+},
+{
+    "first_name": "Alba",
+    "last_name": "Ortiz",
+    "user_id": 7097,
+    "total": 3
+},
+{
+    "first_name": "Gerardo ",
+    "last_name": "Calderon",
+    "user_id": 7930,
+    "total": 3
+},
+{
+    "first_name": "Fabian",
+    "last_name": "Ramirez",
+    "user_id": 1,
+    "total": 3
+},
+{
+    "first_name": "NELSON",
+    "last_name": "CARPIO",
+    "user_id": 7550,
+    "total": 3
+},
+{
+    "first_name": "Mónica",
+    "last_name": "Altamirano",
+    "user_id": 2087,
+    "total": 3
+},
+{
+    "first_name": "Ezequiel",
+    "last_name": "Rodriguez Ramos ",
+    "user_id": 7404,
+    "total": 3
+},
+{
+    "first_name": "Alejandro",
+    "last_name": "Umanzor",
+    "user_id": 7863,
+    "total": 3
+},
+{
+    "first_name": "Geovanny",
+    "last_name": "Alvarado",
+    "user_id": 7191,
+    "total": 3
+},
+{
+    "first_name": "Carlos",
+    "last_name": "Navas",
+    "user_id": 14,
+    "total": 3
+},
+{
+    "first_name": "Oswaldo",
+    "last_name": "Castillo",
+    "user_id": 1129,
+    "total": 3
+},
+{
+    "first_name": "Allan",
+    "last_name": "Tejada",
+    "user_id": 981,
+    "total": 3
+},
+{
+    "first_name": "Meylin",
+    "last_name": "Ruíz",
+    "user_id": 8016,
+    "total": 3
+},
+{
+    "first_name": "Marvin",
+    "last_name": "Flores",
+    "user_id": 496,
+    "total": 3
+},
+{
+    "first_name": "Jose ",
+    "last_name": "Sanchez",
+    "user_id": 308,
+    "total": 3
+},
+{
+    "first_name": "Edwin",
+    "last_name": "Villalobos",
+    "user_id": 7805,
+    "total": 3
+},
+{
+    "first_name": "Jaime",
+    "last_name": "Molina ",
+    "user_id": 8002,
+    "total": 3
+},
+{
+    "first_name": "Reynaldo",
+    "last_name": "Rodriguez",
+    "user_id": 185,
+    "total": 3
+},
+{
+    "first_name": "Victor Rigoberto",
+    "last_name": "Peñate Aguilar",
+    "user_id": 4126,
+    "total": 3
+},
+{
+    "first_name": "Fernando",
+    "last_name": "Moran",
+    "user_id": 7858,
+    "total": 3
+},
+{
+    "first_name": "Francisco",
+    "last_name": "Martinez",
+    "user_id": 102,
+    "total": 3
+},
+{
+    "first_name": "Nestor Mauricio",
+    "last_name": "Ramirez Moran",
+    "user_id": 6810,
+    "total": 3
 }
 ]
